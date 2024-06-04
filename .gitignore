@@ -1,0 +1,36 @@
+# Arquivos compilados
+/target/
+*.class
+
+# Arquivos de pacote
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Arquivos criados pelo maven
+/bin/
+/target/
+/.mvn/
+/release.properties
+/dependency-reduced-pom.xml
+/buildNumber.properties
+/.flattened-pom.xml
+
+# IDEs e editores
+/.idea/
+*.iml
+*.iws
+*.ipr
+/.project
+/.classpath
+/.settings/
+*.launch
+*.sublime-project
+*.sublime-workspace
+*.sublime-workspace
+*.komodoproject
+*.tmproj
+*.tmproject
